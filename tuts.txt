@@ -1,0 +1,2 @@
+To run server:myenv\Scripts\uvicorn.exe myenv.main:app --reload
+API_URL = "http://127.0.0.1:8000/predict" 
