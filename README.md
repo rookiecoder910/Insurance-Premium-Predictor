@@ -1,7 +1,9 @@
 # 🚀 Insurance Premium Predictor  
 
-Welcome to the **Insurance Premium Predictor**!  
-This project combines **FastAPI**, **Streamlit**, and **scikit-learn** to predict **insurance premium categories** based on user details.  
+# 🚀 Insurance Premium Predictor
+
+This app is an Insurance Premium Predictor. It uses FastAPI for the backend and Streamlit for the frontend to predict the insurance premium category for a user based on their personal details (age, weight, height, income, smoking status, city, occupation) using a machine learning model.
+
 
 ---
 
