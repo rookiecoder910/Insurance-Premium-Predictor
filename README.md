@@ -14,7 +14,8 @@ Welcome to the **Insurance Premium Predictor**! This project uses FastAPI and St
 ---
 
 ## 🖥️ Demo
-![alt text](image.png)
+<img width="1903" height="1075" alt="Screenshot 2025-09-21 190432" src="https://github.com/user-attachments/assets/f239096a-9ac3-44d3-ab94-ce2816480711" />
+
 
 ---
 
